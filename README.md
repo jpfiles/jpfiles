@@ -1,4 +1,4 @@
-## Hi there 👋
+## About Me
 
 👋 Hey there, I'm Jonah. I'm an Army Veteran transitioning into the tech industry with a focus on cybersecurity, network engineering, and software development. I have over a decade of experience in project management, technical support, and security.
 
