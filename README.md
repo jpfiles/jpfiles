@@ -10,6 +10,6 @@ Programming Languages: HTML, CSS, JavaScript, Python, SQL/T-SQL, and C#.
 Tools & Technologies: AWS Cloud, Active Directory, Microsoft 365, Virtualization
 Certifications: AWS Certified Cloud Practitioner, GIAC Foundational Cybersecurity Technologies, DoD Certified Digital Media Collector, and Google IT Support Professional.
 Special Interests: Cybersecurity, Network Engineering, IT Support, and Data Center Operations.
-🔧 I enjoy solving complex problems, learning new technologies, and contributing to meaningful projects. I'm also working toward obtaining the CompTIA A+ and Security+ certifications by the end of this year.
+🔧 I enjoy solving complex problems, learning new technologies, and contributing to meaningful projects.
 
-🚀 I'm always seeking new opportunities to grow professionally and collaborate on exciting projects.
+🚀 I'm always seeking new opportunities to grow professionally and collaborate on exciting projects. If you're interested in knowing more or feel my skillset can make difference to your endeavors, please don't hesitate to reach out.
