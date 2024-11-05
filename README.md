@@ -1,6 +1,6 @@
 ## About Me
 
-👋 Hey there, I'm Jonah. I'm an Army Veteran transitioning into the tech industry with a focus on cybersecurity, network engineering, and software development. 
+👋 Hey there, I'm Jonah. I'm an Army Veteran transitioning into the tech industry with interests in cybersecurity, network engineering, and software development. 
 With over a decade of experience in project management and security Counterintelligence Special Agent— my background encompasses Investigations, Intelligence Collection, Operations, and Technical Analysis & Support, with a strong emphasis on Cyber Incident Response.
 
 🌐 I'm currently pursuing a Master’s in Information and Cybersecurity from the University of California, Berkeley, and a Certificate in Cloud Application Development through the Washington Vets To Tech (WaV2T) program.
