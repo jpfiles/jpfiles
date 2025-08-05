@@ -3,7 +3,7 @@
 👋 Hey there, I'm Jonah. I'm an Army Veteran transitioning into the tech industry with interests in cybersecurity, network engineering, and software development. 
 I have over a decade of experience in technical support, project management, and security as a Counterintelligence Special Agent— my background encompasses Investigations, Intelligence Collection, Operations, and Technical Analysis & Support, with a strong emphasis on Cyber Incident Response.
 
-🌐 I'm currently pursuing a Master’s in Computer Science from the University of Colorado Boulder, and a recently earned a Certificate in Cloud Application Development through the Washington Vets To Tech (WaV2T) program at Saint Martin's University.
+🌐 I'm currently pursuing a Master’s in Cybersecurity from the University of California, Berkeley, and a recently earned a Certificate in Cloud Application Development through the Washington Vets To Tech (WaV2T) program at Saint Martin's University.
 
 💻 My technical skill set includes:
 
