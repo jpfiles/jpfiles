@@ -13,4 +13,4 @@ Certifications: AWS Certified Cloud Practitioner, GIAC Foundational Cybersecurit
 Special Interests: Game Design, Network Engineering, Software Development, and Automating tasks.
 🔧 I enjoy solving puzzles, learning new technologies, and contributing to meaningful projects.
 
-🚀 I'm always seeking new opportunities to grow professionally and collaborate on exciting projects. If you're interested in knowing more or feel my skillset can make difference to your endeavors, please don't hesitate to reach out.
+🚀 I'm always seeking new opportunities to grow professionally and collaborate on exciting projects. If you're interested in knowing more or feel my skillset can make a difference to your endeavors, please don't hesitate to reach out.
